@@ -1,0 +1,8 @@
+accelerate
+llama-cpp-python
+mistral-common
+peft
+tqdm
+autogen
+sentencepiece
+torch

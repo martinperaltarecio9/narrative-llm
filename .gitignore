@@ -1,0 +1,7 @@
+.venv
+llama.cpp
+modelo_local
+__pycache__
+.ipynb_checkpoints
+readme.ipynb
+finetuning/OPENAI_API_KEY.txt
