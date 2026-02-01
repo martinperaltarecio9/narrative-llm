@@ -5,3 +5,4 @@ __pycache__
 .ipynb_checkpoints
 readme.ipynb
 finetuning/OPENAI_API_KEY.txt
+.DS_Store

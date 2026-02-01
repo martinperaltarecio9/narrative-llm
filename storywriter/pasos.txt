@@ -1,0 +1,10 @@
+1- Crear entorno virtual (si hace falta) y descargar los requirements.txt.
+
+2- Ejecutar "DescargaModeloHF.py" para descargar el modelo de HF.
+
+3- Clonar el repositorio llama.cpp para tener la función que convierte a formato llama con:
+git clone https://github.com/ggerganov/llama.cpp
+
+5- Ejecutar HFtoGGUF.sh para convertir el modelo de formato HF a GGUS (para usarlo con llama).
+
+Opcional- Usar HF inferencia es para usar modelos pagos en la nube.
